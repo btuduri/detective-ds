@@ -1,0 +1,1 @@
+This is a remake of the 1986 game called The Detective Game written by Sam Monthorpe on the C64 for the Nintendo DS.
